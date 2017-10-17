@@ -1,0 +1,89 @@
+.spaceDetails .return{
+	width: 16px;
+	position: absolute;
+	bottom: 15px;
+	left: 5px;
+}
+.spaceDetails .nav{
+	height: 60px;
+	background-color: #f949cf;
+	position: relative;
+}
+.spaceDetails a{
+	color: #fff;
+}
+ 
+.spaceDetails .center{
+	padding-top: 18px;
+	color: #fff;
+}
+
+.spaceDetails .head-img{
+	width: 50%;
+	margin:0 auto;
+}
+
+.spaceDetails .photo{
+	overflow: hidden;
+}
+
+.spaceDetails .like{
+	float: right;
+	overflow: hidden;
+}
+
+.spaceDetails .like>div{
+	width: 40%;
+	float: left;
+}
+
+.spaceDetails .like>p{
+	float: left;
+}
+
+.spaceDetails .photo-font{
+	overflow: hidden;
+}
+
+.spaceDetails .bor{
+	border-bottom:1px solid #ddd;
+	padding-bottom: 10px;
+}
+
+.spaceDetails .header-font{
+	width: 100%;
+	border: 1px solid #ddd;
+	color: #f10d4e;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.spaceDetails .table{
+	border: 1px solid #ddd;
+}
+
+.spaceDetails .table>ul>li{
+	line-height: 25px;
+}
+
+.spaceDetails .btn{
+	overflow: hidden;
+}
+
+.spaceDetails .btn>div{
+	float: left;
+	border: 1px solid #ddd;
+	margin-left: 10px;
+	padding: 8px;
+	margin-top: 8px;
+}
+
+.spaceDetails .btn>div:nth-child(1){
+	background-color: #ffeded;
+	color: #f5547d;
+}
+
+.spaceDetails .btn>div:nth-child(2){
+	background-color: #f10d4e;
+	color: #fff;
+}

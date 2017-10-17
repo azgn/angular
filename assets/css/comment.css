@@ -1,0 +1,76 @@
+.spaceComment .padd{
+	padding-top: 20px;
+}
+
+.spaceComment .comm{
+	overflow: hidden;
+}
+
+.spaceComment .comm>span,.spaceComment .comm>div{
+	float: left;
+}
+
+.spaceComment .comm>div{
+	width: 7%;
+	margin-left: 5px;
+}
+
+.spaceComment .comm-font{
+	font-size: 17px;
+	color: #f949cf;
+	margin-left: 5px;
+}
+
+.spaceComment .domm>span{
+	width: 30%;
+	text-align: center;
+	border: 1px solid #ddd;
+	line-height: 30px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
+.spaceComment .domm>span:nth-child(1){
+	color: #f949cf;
+	border: 1px solid #f949cf;
+}
+
+.spaceComment .sethead{
+	width: 20%;
+	float: left;
+	padding-right: 7px;
+}
+
+.spaceComment .specific{
+	width: 75%;
+	overflow: hidden;
+}
+
+.spaceComment .specific-div{
+	overflow: hidden;
+}
+
+.spaceComment .fr{
+	font-size: 13px;
+	color: #aaa;
+}
+
+.spaceComment .spec{
+	overflow: hidden;
+	float: left;
+	background-color: #eee;
+	padding: 10px;
+}
+
+.spaceComment .spec>span:nth-child(1){
+	font-size: 12px;
+}
+
+.spaceComment .spec>div{
+	width: 33.33%;
+	float: left;
+}
+
+.spaceComment .header{
+	padding-bottom: 64px;
+}

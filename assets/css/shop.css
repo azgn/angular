@@ -1,0 +1,65 @@
+.spaceShop .nav{
+	height:60px;
+	background-color: #f949cf;
+	position: relative;
+	color: #fff;
+}
+
+.spaceShop .nav>div{
+	position: absolute;
+	bottom: 20px;
+}
+
+.spaceShop .nav>.text{
+	left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 50px;
+}
+
+.spaceShop .st{
+	right: 20px;
+}
+
+/*--------------------------------------------------------------*/
+.spaceShop .header-div{
+	position: relative;
+	overflow: hidden;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 20px;
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 10px;
+
+}
+
+.spaceShop .yuan{
+	width: 7%;
+	float: left;
+	padding-top: 15%;
+}
+
+.spaceShop .tu{
+	float: left;
+	width: 40%;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.spaceShop .header-font{
+	width: 43%;
+	float: left;
+	margin-top: 8%;
+}
+
+.spaceShop .header-font>span{
+	font-size: 12px;
+	color: #ccc;
+	line-height: 30px;
+}
+
+.spaceShop .return1{
+	position: absolute;
+	right: 18px;
+	bottom: 35%;
+}

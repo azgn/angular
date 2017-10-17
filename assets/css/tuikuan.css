@@ -1,0 +1,108 @@
+
+.spaceWait .head>div:nth-child(4){
+	    color: #f949cf;
+    border-bottom: 1px solid #f949cf;
+}
+
+.spaceWait .head>div{
+	color: #000;
+	border-bottom:none;
+}
+
+.spaceWait .nav{
+	height: 60px;
+	background-color: #f949cf;
+	position: relative;
+}
+
+.spaceWait .return{
+	width: 16px; 
+	position: absolute;bottom: 10px;
+	bottom: 15px;
+	margin-left: 10px;
+}
+
+.spaceWait .nav>p{
+	line-height: 60px;
+	color: #fff;
+}
+
+/*---------------------------------------*/
+.head{
+	overflow: hidden;
+}
+
+.spaceWait .head>div{
+	width: 25%;
+	text-align: center;
+	float: left;
+}
+
+
+.spaceWait .header{
+	padding-right: 5%;
+	padding-left: 5%;
+	padding-top: 15px;
+}
+
+.spaceWait .header>div{
+	padding-top: 10px;
+	margin-top: 10px;
+}
+
+.spaceWait .font{
+	font-size: 13px;
+	border-bottom: 1px solid #ddd;
+	padding-bottom:20px;
+}
+
+.spaceWait .img-div{
+	overflow: hidden;
+	padding-top:10px;
+	position: relative;
+	padding-bottom:5px;
+	border-bottom: 1px solid #ddd;
+}
+
+.spaceWait .img{
+	float: left;
+	width: 35%;
+}
+
+.spaceWait .img-div>p{
+	font-size: 12px;
+	margin-left: 5px;
+	float: left;
+	width:63%;
+}
+
+.spaceWait .money{
+	position: absolute;
+	bottom: 10px;
+	left: 38%;
+	color: #f949cf;
+}
+
+.spaceWait .b{
+	float: right;
+	border:1px solid #f949ce;
+	width: 80px;
+	text-align: center;
+	border-radius: 5px;
+	margin-left: 10px;
+}
+
+.spaceWait .btn{
+	overflow: hidden;
+	padding-top: 5px;
+}
+
+.spaceWait .btn2{
+	color: #808080;
+}
+
+.spaceWait .btn1{
+	background-color: #f949ce;
+	color: #fff;
+}
+

@@ -1,0 +1,78 @@
+ .spacePersoncenter .nav{
+	height: 130px;
+	background-color: #f949cf;
+	position: relative;
+}
+
+ .spacePersoncenter .fp{
+	padding-bottom: 10px; 
+}
+
+ .spacePersoncenter .set-img{
+	width: 8%;
+	position: absolute;
+	right: 10px;
+	top: 5px;
+}
+
+ .spacePersoncenter .nav-firstp{
+	color: #fff;
+}
+
+.spacePersoncenter .person{
+	width: 70px;
+	margin:0 auto;
+	position: relative;
+	bottom: 5px;
+}
+
+a{
+	color: #000;
+}
+
+ .spacePersoncenter .t{
+	width: 25%;
+	float: left;
+}
+
+ .spacePersoncenter .t>a>div{
+	width: 60%;
+	margin:0 auto;
+}
+
+ .spacePersoncenter .padd{
+	overflow: hidden;
+	margin-top: 10px;
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 10px;
+}
+
+ .spacePersoncenter .img-right{
+	width: 35px;
+	float: left;
+	margin-top: 10px;
+}
+
+ .spacePersoncenter .wode>a, .wode>span{
+	display: inline-block;
+	font-size: 15px;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+ .spacePersoncenter .fr{
+	margin-top: 15px;
+	width: 10px;
+}
+
+ .spacePersoncenter .head{
+	padding-bottom: 64px;
+}
+
+ .spacePersoncenter span {
+ 	font-size: 15px;
+ }
+
+  .spacePersoncenter .center{
+  	font-size: 15px;
+  }

@@ -1,0 +1,106 @@
+ .sapceSetting .nav{
+	height: 130px;
+	background-color: #f949cf;
+	position: relative;
+}
+
+ .sapceSetting .fp{
+	padding-bottom: 10px; 
+}
+
+ .sapceSetting .set-img{
+	width: 8%;
+	position: absolute;
+	right: 10px;
+	top: 5px;
+}
+
+ .sapceSetting .nav-firstp{
+	color: #fff;
+}
+
+ .sapceSetting .person{
+	width: 70px;
+	margin:0 auto;
+}
+
+a{
+	color: #000;
+}
+
+ .sapceSetting .t{
+	width: 25%;
+	float: left;
+}
+
+ .sapceSetting .t>a>div{
+	width: 60%;
+	margin:0 auto;
+}
+
+ .sapceSetting .padd{
+	overflow: hidden;
+	margin-top: 10px;
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 10px;
+}
+
+ .sapceSetting .img-right{
+	width: 40px;
+	float: left;
+}
+
+ .sapceSetting .wode>a, .sapceSetting .wode>span{
+	line-height: 50px;
+	font-size: 20px;
+	margin-left: 15px;
+}
+
+ .sapceSetting .fr{
+	margin-top: 10px;
+}
+
+ .sapceSetting .head{
+	padding-bottom: 64px;
+}
+
+.sapceSetting .nav{
+	height: 60px;
+	background-color: #f949cf;
+	position: relative;
+}
+
+.sapceSetting .return{
+	width: 16px; 
+	position: absolute;
+	bottom: 15px;
+	margin-left: 10px;
+
+}
+
+.sapceSetting .nav>p{
+	line-height: 60px;
+	color: #fff;
+}
+
+.sapceSetting .sethead{
+	width: 14%;
+	margin-right: 10px;
+	margin-top: 5px;
+}
+
+.sapceSetting .font{
+	margin-right: 10px;
+	margin-top: 13px;
+
+}
+.sapceSetting .wode > span{
+	line-height: 50px;
+	font-size: 15px;
+	margin-left:15px;
+}
+
+.sapceSetting .img-right{
+	width: 50px;
+	float: left;
+}

@@ -1,0 +1,48 @@
+
+.spaceOrder .spaceReceiving .shou>div,.moren,.moren>div{
+	overflow: hidden;
+}
+
+.spaceOrder .spaceReceiving .ye{
+	
+	max-width: 33px;
+}
+
+.spaceOrder .spaceReceiving .moren{
+	padding-top: 5px;
+}
+
+.spaceOrder .spaceReceiving .moren p{
+	line-height: 33px;
+	margin-left: 5px;
+}
+
+.spaceOrder .spaceReceiving .bianji{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.spaceOrder .spaceReceiving .shou-div{
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 15px;
+}
+
+.spaceOrder .spaceReceiving .shou{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	background-color: #fff;
+}
+
+.spaceOrder .spaceReceiving .bottom{
+	margin-top: 20px;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+.spaceOrder .spaceReceiving .bottom>div{
+	text-align: center;
+	color: #fff;
+	line-height: 35px;
+	background-color: #24b24e;
+}
